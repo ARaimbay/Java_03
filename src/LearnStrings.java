@@ -8,5 +8,6 @@ public class LearnStrings {
         System.out.println(fruit == anotherFruit);
         System.out.println(vegetable == anotherVegetable);
         System.out.println("Hello world");
+        System.out.println("Hello world");
     }
 }
